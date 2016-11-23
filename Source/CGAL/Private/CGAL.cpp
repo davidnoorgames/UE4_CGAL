@@ -10,7 +10,7 @@ void FCGALModule::StartupModule()
 {
 
 	// This code will execute after your module is loaded into memory; the exact timing is specified in the .uplugin file per-module
-	FString BaseDir = "YOUR UE4 PROJECT PATH/Plugins/CGAL";
+	FString BaseDir = "C:/Users/David/Documents/Unreal Projects/TestProject/Plugins/UE4_CGAL";
 
 	// Add on the relative location of the third party dll and load it
 	FString LIBGMP,LIBMPFR;
